@@ -1,0 +1,26 @@
+{
+  "name": "gulp-jshint-instafail",
+  "version": "1.0.0",
+  "description": "Instantly failing reporter for gulp-jshint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdepold/gulp-jshint-instafail.git"
+  },
+  "keywords": [
+    "gulp",
+    "jshint",
+    "instafail"
+  ],
+  "author": "Sascha Depold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdepold/gulp-jshint-instafail/issues"
+  },
+  "homepage": "https://github.com/sdepold/gulp-jshint-instafail",
+  "dependencies": {
+  }
+}
